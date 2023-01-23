@@ -1,0 +1,1 @@
+I used Python in Jupiter notebooks. I wasn't able to figure out how to run my code on the school zeus/eros. I used pandas to implement the kmeans. I also attached the screenshots that I got from printing the dataset in the notebooks, I wasn't able to show it in the gen.exe.
